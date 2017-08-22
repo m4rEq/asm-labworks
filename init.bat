@@ -1,0 +1,1 @@
+D:/Soft/"Microsoft Visual Studio 14"/VC/bin/vcvars32.bat
