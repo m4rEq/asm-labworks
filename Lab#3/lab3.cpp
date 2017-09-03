@@ -192,7 +192,9 @@ int main() {
 
 		end_2:
 	}
-
+	
+	cout << modul << endl;
+	
 	cout << "ASM days in year: " << num_days_in_year << endl;
 	cout << "ASM days in month: " << num_days_in_month << endl;
 
